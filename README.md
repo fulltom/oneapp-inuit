@@ -1,2 +1,2 @@
-oneapp-inuit
+oneapp-inuitcss
 ============
