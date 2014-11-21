@@ -1,3 +1,4 @@
 css/.sass-cache
 css/watch
-css/style.min.css*
+css/style.min.css.map
+css/style.min.css
