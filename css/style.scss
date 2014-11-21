@@ -35,21 +35,20 @@
 /*------------------------------------*\
     item__benefit component
 \*------------------------------------*/
-.item__benefit {
+.testimonial_benefit {
 	width:33%;
 	height: auto;
 	padding: 10px;
 	margin-bottom: 2px;
 	text-align: center;
 	overflow: hidden;
-	.item__benefit--title {
-		font-weight:bold;
-	}
-	.item__benefit--quote {
-		font-style:italic;
-	}
 }
 
+.nav {
+	& li a:hover {
+		-webkit-filter: sepia(20%);
+	}
+}
 
 
 
