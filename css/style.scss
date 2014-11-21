@@ -17,11 +17,14 @@
 @import "vars";
 @import "inuit.css/inuit";
 
-.container {
-	max-width: 960px;
-	margin-right: auto;
-	margin-left: auto;
+.section {
+	padding:96px 48px;
+	
 }
+.wrapper {
+		min-width:960px;
+		margin:50px;
+	}
 
 
 
