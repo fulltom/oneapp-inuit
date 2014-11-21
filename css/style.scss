@@ -19,6 +19,39 @@
 
 
 
+/**
+ * UTILS Round corner crop img
+ */
+.frame__rounded{
+	padding: 0.25em;
+	border-radius: 100%;
+	display: inline-block;
+ 	img {
+		border-radius: 100%;
+	}
+}
+
+
+/*------------------------------------*\
+    item__benefit component
+\*------------------------------------*/
+.item__benefit {
+	width:33%;
+	height: auto;
+	padding: 10px;
+	margin-bottom: 2px;
+	text-align: center;
+	overflow: hidden;
+	.item__benefit--title {
+		font-weight:bold;
+	}
+	.item__benefit--quote {
+		font-style:italic;
+	}
+}
+
+
+
 
 /**
  * She’s all yours, cap’n... Begin importing your stuff here.
